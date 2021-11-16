@@ -12,6 +12,8 @@ This is useful in photovoltaics and non-imaging optics where the goal is to desi
 
 One of its key features is the ability to simulate re-absorption in luminescent materials. For example, like in devices like Luminescent Solar Concentrators (LSCs).
 
+# Generation of 3D objects using pyvista or stl files
+
 Here, we will include arbitrary geometries using pyvista or stl files.
 
 # Install
