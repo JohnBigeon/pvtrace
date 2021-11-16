@@ -16,6 +16,8 @@ One of its key features is the ability to simulate re-absorption in luminescent 
 
 Here, we will include arbitrary geometries using pyvista or stl files.
 
+![](https://github.com/JohnBigeon/pvtrace/blob/master/examples-stl/raytracing_exotic_obj.png)
+
 # Install
 
 ## Linux and Windows using Conda
